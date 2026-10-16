@@ -39,12 +39,12 @@ src/main/java/com/fiap/cp5/
 # INSTRUÇÕES
 1. Em um terminal, clonar o repositório:
 ```bash
-git clone https://github.com/Z4FFARANI-EDUCATIONAL/SEM2-CP5-DDD-JAVA
+git clone https://github.com/Z4FFARANI-EDUCATIONAL/CP5-DDD-JAVA
 ```
 
 2. No terminal, navegar até a pasta do projeto:
 ```bash
-cd SEM2-CP5-DDD-JAVA
+cd CP5-DDD-JAVA
 ```
 
 3. No terminal, construir toda a aplicação em contêineres:
